@@ -1,6 +1,6 @@
 package adamdecaf.picking.tests
 
-trait Add extends PicklePersistence {
+trait AddTests extends PicklePersistence {
 
   // case class AddTest(
   //   existingMethod1: String,
