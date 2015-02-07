@@ -1,0 +1,19 @@
+{
+  "$type": "Add.this.AddTest",
+  "existingMethod1": "hello world",
+  "existingMethod2": {
+    "$type": "scala.collection.immutable.$colon$colon[scala.Int]",
+    "head": 1,
+    "tl": {
+      "$type": "scala.collection.immutable.$colon$colon[scala.Int]",
+      "head": 2,
+      "tl": {
+        "$type": "scala.collection.immutable.$colon$colon[scala.Int]",
+        "head": 3,
+        "tl": {
+          "$type": "scala.collection.immutable.Nil.type"
+        }
+      }
+    }
+  }
+}

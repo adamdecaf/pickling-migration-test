@@ -1,0 +1,5 @@
+{
+  "$type": "Delete.this.DeleteTest",
+  "existingMethod1": "greetings",
+  "existingMethod2": true
+}
