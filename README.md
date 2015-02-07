@@ -9,7 +9,7 @@
 - [x] Delete Tests
   - [x] Deleting a method from a model should allow us to continue reading.
 - [ ] Option Tests
-  - [ ] Reading a model that has an Option[T] should give None if the field doesn't exist.
+  - [ ] Reading a model that has an Option[T] should give None if the field doesn't exist. (even without default params)
 
 ## Learn More
 
