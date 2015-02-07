@@ -1,6 +1,6 @@
 package adamdecaf.picking.tests
 
-object Runner extends App with Add with Delete with InPlaceModify {
+object Runner extends App with Add with Delete {
 
   println("Starting")
 
